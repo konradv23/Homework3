@@ -25,11 +25,8 @@ public class Main9 {
                     bookRecommendation = "The Hitchhiker's Guide to the Galaxy by Douglas Adams";
                 }
 
-<<<<<<< HEAD
                 System.out.println("I recommend the book " + bookRecommendation + " for  you.");
-=======
                 System.out.println("I recommend the book " + bookRecommendation + " for you.");
->>>>>>> origin/master
         }
 
     }

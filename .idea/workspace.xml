@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d4f8fa-396d-4653-834f-a971c5850f80" name="Changes" comment="Homework3">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3hw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +44,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main9">
+  <component name="RunManager" selected="Application.Main7">
     <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main5" />
       <module name="Lesson3hw" />
@@ -91,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main9" />
-        <item itemvalue="Application.Main8" />
         <item itemvalue="Application.Main7" />
         <item itemvalue="Application.Main6" />
         <item itemvalue="Application.Main5" />
+        <item itemvalue="Application.Main9" />
+        <item itemvalue="Application.Main8" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +99,39 @@
       <option name="presentableId" value="Default" />
       <updated>1696157079569</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework3">
+      <option name="closed" value="true" />
+      <created>1696172722677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172722677</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework3">
+      <option name="closed" value="true" />
+      <created>1696172778714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172778714</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework3">
+      <option name="closed" value="true" />
+      <created>1696173175127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696173175127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework3">
+      <option name="closed" value="true" />
+      <created>1696173250635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696173250635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

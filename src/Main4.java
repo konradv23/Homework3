@@ -1,6 +1,5 @@
 public class Main4 {
     public static void main(String[] args) {
-        // Check if two strings are equal.
         String string1 = "Hello";
         String string2 = "World";
 
